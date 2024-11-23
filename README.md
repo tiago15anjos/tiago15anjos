@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @tiago15anjos, a biologist, educator, and PhD student in Science, Technology, and Society (CTS) at UFSCar.  
+- 👀 I’m interested in educational research, public policies for science and technology, and data analysis.  
+- 🌱 I’m currently learning programming, focusing on data science and Arduino-based projects, as well as interdisciplinary methodologies in education.  
+- 💞️ I’m looking to collaborate on projects related to scientific initiation, educational technology, and data visualization.  
+- 📫 How to reach me: tiago15anjos@gmail.com 
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I’m passionate about blending biology, education, and technology to inspire the next generation of scientists!  
